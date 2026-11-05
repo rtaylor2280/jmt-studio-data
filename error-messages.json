@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1,
-  "updated": "2026-11-05",
+  "version": 2,
+  "updated": "2026-11-06",
   "signatures": [
     {
       "id": "unquoted-preset-name",
@@ -10,7 +10,7 @@
       "specificity": 23,
       "primary": true,
       "precondition": "unquotedName",
-      "title": "{symbol} needs quotes",
+      "title": "{symbol} needs quotes (rail test)",
       "meaning": "Font and track names go in quotes, so the compiler read {symbol} as a name it should already know.",
       "fix": "Change it to \"{symbol}\"."
     },
