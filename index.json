@@ -3,9 +3,9 @@
   "datasets": {
     "error-messages": {
       "file": "error-messages.json",
-      "version": 2,
-      "updated": "2026-11-06",
-      "sha256": "eb0b8922906267d9bd4cb6770aa29a20814529ca7c9d9a87a33ca633b3acd519"
+      "version": 3,
+      "updated": "2026-11-05",
+      "sha256": "3dbc07c6f0a7815975ffa40fd047cf50d6f9e9e12eb0cc353cdd018ae06938e3"
     }
   }
 }
