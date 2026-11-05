@@ -1,4 +1,11 @@
 {
   "schema": 1,
-  "datasets": {}
+  "datasets": {
+    "error-messages": {
+      "file": "error-messages.json",
+      "version": 1,
+      "updated": "2026-11-05",
+      "sha256": "d54893a827614ce4e88a204e26c39a5f53a393610be5f775a480f4b68062e896"
+    }
+  }
 }
