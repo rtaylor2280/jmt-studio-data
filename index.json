@@ -6,6 +6,12 @@
       "version": 3,
       "updated": "2026-11-05",
       "sha256": "3dbc07c6f0a7815975ffa40fd047cf50d6f9e9e12eb0cc353cdd018ae06938e3"
+    },
+    "font-catalogue": {
+      "file": "fonts/index.json",
+      "version": 1,
+      "updated": "2026-11-05",
+      "sha256": "20beddaf3118829c66efe9ab90e01e07b7fcf0e8c2ea8da7d59e570cf799578b"
     }
   }
 }
