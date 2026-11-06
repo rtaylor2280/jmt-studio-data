@@ -9,9 +9,9 @@
     },
     "font-catalogue": {
       "file": "fonts/index.json",
-      "version": 3,
+      "version": 5,
       "updated": "2026-11-06",
-      "sha256": "72cfa0167dda5cdf6fb379c9397068598f0c63ee309560b3a3d7bcadc4b3a4d2"
+      "sha256": "ab427d6deb7c046e65c0f547d33b41af7cb3b34a4d824dd4050df5a504ab9a0b"
     }
   }
 }
